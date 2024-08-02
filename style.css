@@ -1,0 +1,37 @@
+.center{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rows{
+   /* margin-left: 390px; */
+   margin: 0 534px;
+   background-color: brown;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+} 
+.rows input{
+    width: 291px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px  0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.container{
+    margin: auto;
+}
+.button{
+    width: 60px;
+    padding: 20px;
+    margin: 8px ;
+    border-radius: 9px;
+    cursor: pointer;
+    
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
